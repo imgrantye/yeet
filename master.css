@@ -85,7 +85,7 @@ a, a:hover, a *{-o-transition: .3s;-ms-transition: .3s;-moz-transition: .3s;-web
 
 /* Loader */
 
-#loader-overlay {width: 100%;height: 100vh;background: #1d2124;position: fixed;z-index: 999999;top: 0;left: 0;right: 0;}
+#loader-overlay {width: 100%;height: 100vh;position: fixed;z-index: 999999;top: 0;left: 0;right: 0;}
 .loader{display: inline-block;width: 100px;height: 100px;position: absolute;top: 50%;left: 50%;transform: translateY(-50%);-webkit-transform: translateY(-50%);-moz-transform: translateY(-50%); -webkit-transform: translateX(-50%);-moz-transform: translateX(-50%);transform: translateX(-50%);}
 .spinner-double-dot-in{display: block;float: left;width: 50px;height: 50px;border-radius: 50%;border: 2.125px solid #eee;animation: spinner 1.2s linear infinite;position: relative;}
 .spinner-double-dot-in:before, .spinner-double-dot-in:after {content: '';position: absolute;top: -20.25px;left: 12.875px;width: 6.25px;height: 6.25px;border-radius: 50%;background: #1ca7ec;}
@@ -120,7 +120,7 @@ a, a:hover, a *{-o-transition: .3s;-ms-transition: .3s;-moz-transition: .3s;-web
 
 /* Selection */
 
-::selection {background-color: #1d2124;color: #fff;}
+::selection {color: #fff;}
 
 /* All */
 
