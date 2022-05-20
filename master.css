@@ -49,13 +49,13 @@
 /* Theme Reset Start */
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600|Raleway:200,300,400,500,700,800');
-@import url("bootstrap.min.css");
-@import url("custom-icons.min.css");
-@import url("icofont.min.css");
-@import url("cubeportfolio.css");
-@import url("bootsnav.css");
-@import url("slick.css");
-@import url("animate.css");
+@import url("https://cdn.jsdelivr.net/gh/imgrantye/yeet@main/bootstrap.min.css");
+@import url("https://cdn.jsdelivr.net/gh/imgrantye/yeet@main/custom-icons.min.css");
+@import url("https://cdn.jsdelivr.net/gh/imgrantye/yeet@main/icofont.min.css");
+@import url("https://cdn.jsdelivr.net/gh/imgrantye/yeet@main/cubeportfolio.css");
+@import url("https://cdn.jsdelivr.net/gh/imgrantye/yeet@main/bootsnav.css");
+@import url("https://cdn.jsdelivr.net/gh/imgrantye/yeet@main/slick.css");
+@import url("https://cdn.jsdelivr.net/gh/imgrantye/yeet@main/animate.css");
 
 /* Transitons */
 
