@@ -8,7 +8,7 @@
     4.0 - Navigation
     5.0 - Search Box
     6.0 - Page Title Section
-    7.0 - Slider Section
+    7.0 - Slider Sectionhttps://metaversityofficial.com/wp-content/uploads/2022/05/Small_Colour-01.png
     8.0 - Creative Section
     9.0 - Recent Project Section
     9.1 - Overlay and hover effect
@@ -297,7 +297,7 @@ nav .logo > a {display: table-cell;vertical-align: middle;}
 .menu-logo, .vcard-address{float: left;}
 nav.bootsnav.navbar-sidebar ul.nav {margin: 0 0 30px 0;}
 nav.navbar.bootsnav.navbar-transparent.white ul.nav > li > a.nav-btn-default {padding-top: 10px;padding-bottom: 10px;margin-top: 15px;}
-nav.navbar.bootsnav ul.nav > li > a.nav-btn-default {padding: 10px 15px;margin-top: 6.5px;color: #fff;}
+nav.navbar.bootsnav ul.nav > li > a.nav-btn-default {padding: 10px 15px;margin-top: 6.5px;color: #000000;}
 .navbar-nav>li>.dropdown-menu {margin-top: 2px;}
 .absolute-header {position: absolute;top: 0;left: 0;right: 0;width: 100%;z-index: 99;padding: 10px 0;}
 .menu-logo-outside {max-width: 180px;}
